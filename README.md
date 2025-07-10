@@ -6,13 +6,8 @@ A simple user authentication system built using **PHP**, **HTML**, **CSS**, and 
 
 ---
 
-## 🚀 Demo Link (if deployed)
-*Coming soon or hosted locally*
-
----
-
 ## 📁 GitHub Repository
-[GitHub Repository](https://github.com/henrietteumugwaneza/User-authent.git)
+[GitHub Repository](https://github.com/henrietteumugwaneza/User_Authentication)
 
 ---
 
@@ -20,10 +15,8 @@ A simple user authentication system built using **PHP**, **HTML**, **CSS**, and 
 
 - ✅ User Registration
 - ✅ User Login
-- ✅ Secure Password Hashing
-- ✅ Session Management
-- ✅ Protected Welcome Page
-- ✅ Logout Functionality
+- ✅ welcome session
+- ✅ logout session
 
 ---
 
