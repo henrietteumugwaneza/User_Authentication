@@ -24,5 +24,5 @@ A simple user authentication system built using **PHP**, **HTML**, **CSS**, and 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/henrietteumugwaneza/User-authent.git
+git clone https://github.com/henrietteumugwaneza/User-Authention.git
 
