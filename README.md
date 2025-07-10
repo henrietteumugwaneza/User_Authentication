@@ -1,5 +1,4 @@
-# User_Authentication
-User authentication
+
 # User Authentication System
 
 A simple user authentication system built using **PHP**, **HTML**, **CSS**, and **MySQL**. This project allows users to register, log in, and access a protected page only when logged in.
